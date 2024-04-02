@@ -37,9 +37,12 @@ button {
     align-items: baseline;
 }
 
+
 table{
     width: 100%;
 }
+
+
 
 /* Media query para telas menores que 768px */
 @media only screen and (max-width: 768px) {
